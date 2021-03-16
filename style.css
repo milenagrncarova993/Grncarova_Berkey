@@ -1,0 +1,48 @@
+body{
+    margin:0;
+    padding:0;
+    background-color: black;
+}
+
+table{
+    border-spacing: 0;
+}
+
+td{
+    padding:0;
+}
+
+img {
+    border:0;
+}
+
+@media screen and (max-width: 600px){
+
+}
+@media screen and (max-width: 400px){
+
+}
+
+.wrapper{
+    width:100%;
+    table-layout: fixed;
+    background-color:black;
+    padding-bottom: 30px;
+}
+
+.inner-wrapper{
+    max-width: 600px;
+    background-color:white;
+    margin-left:auto;
+    margin-right:auto;
+
+}
+
+.outer{
+    margin: 0 auto;
+    width: 100%;
+    max-width: 600px;
+    border-spacing: 0;
+    color:black;
+    justify-content: center;
+}
