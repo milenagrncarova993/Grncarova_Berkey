@@ -49,17 +49,18 @@ img {
 .two-columns{
     text-align: center;
     font-size: 0;
-    padding-top: 40px;
+    padding-top: 10px;
     padding-bottom:30px;
+    display:flex;
 }
 
 .two-columns .column {
     width:100%;
-    max-width: 200px;
+    max-width: 230px;
     display: inline-block;
     vertical-align: top;
 }
 
 .padding{
-    padding: 15px;
+    padding: 0px;
 }
