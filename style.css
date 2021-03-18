@@ -69,9 +69,8 @@ img.g-img + div {
 	background: #ffffff;
 }
 
-/*BUTTON*/
 .button{
-    background-color: yellowgreen;
+    background-color: #BBEB76;
     color: black;
     font-size: bold;
     text-decoration: none;
@@ -96,8 +95,6 @@ body{
 	padding: 30px;
 }
 
-
-
 .navigation{
 	padding: 0;
 	margin-bottom: 0;
@@ -113,7 +110,7 @@ body{
 	letter-spacing: 2px;
 }
 .navigation li a{
-	color:#00a3cc;
+	color:#02508C;
 }
 
 .navigation-bottom{
@@ -130,30 +127,8 @@ body{
 	letter-spacing: 2px;
 }
 .navigation-bottom li a{
-	color:#00a3cc;
+	color:#02508C;
 }
-
-
-/*INTRO*/
-.intro{
-	position: relative;
-	z-index: 0;
-}
-
-.intro .text{
-	color: rgba(0,0,0,.3);
-}
-.intro .text h2{
-	color: #000;
-	font-size: 34px;
-	margin-bottom: 0;
-	font-weight: 300;
-}
-.intro .text h2 span{
-	font-weight: 600;
-	color: #ffc0d0;
-}
-
 
 .two-columns{
 	text-align: center;
